@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4636e9be-8c6e-4ff9-b982-ab6aebdd19fa" name="我的服务器" url="http://qqq.520ln.club">
+        <fileTransfer rootFolder="/data/wwwroot/jiaoyu" accessType="SFTP" host="111.229.70.171" port="22" sshConfigId="e5aa0fc2-82f9-44a9-b434-06b55e02fc51" sshConfig="我的服务器">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
